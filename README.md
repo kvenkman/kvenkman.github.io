@@ -1,1 +1,1 @@
-Personal github.io site
+This is the code repo for my personal [github page](https://kvenkman.github.io/).
