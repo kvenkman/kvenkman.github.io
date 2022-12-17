@@ -1,9 +1,7 @@
 ---
 layout: post
 title: "Hello world!"
-author: Karthik
 ---
-<p>{{ site.time }}</p>
 
 ## Welcome to GitHub Pages
 
