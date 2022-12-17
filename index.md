@@ -6,7 +6,7 @@ author: Karthik
 
 ## Welcome to GitHub Pages
 
-This website uses the Jekyll theme (minima)[https://github.com/jekyll/minima]
+This website uses the Jekyll theme [minima](https://github.com/jekyll/minima)
 
 You can use the [editor on GitHub](https://github.com/kvenkman/kvenkman.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
