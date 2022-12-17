@@ -2,6 +2,7 @@
 layout: post
 title: "Hello world!"
 author: Karthik
+date: {{ site.time | date: '%B %d, %Y' }}
 ---
 
 ## Welcome to GitHub Pages
