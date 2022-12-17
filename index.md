@@ -2,8 +2,8 @@
 layout: post
 title: "Hello world!"
 author: Karthik
-date: {{ site.time }}
 ---
+<p>{{ site.time }}</p>
 
 ## Welcome to GitHub Pages
 
